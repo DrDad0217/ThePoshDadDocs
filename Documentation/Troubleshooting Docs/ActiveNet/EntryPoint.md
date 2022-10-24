@@ -17,6 +17,7 @@ We also want to make sure the com port matches the scanner itself in device mana
 
 ![[ActiveNetCom.png]]![[ActiveNetCom2.png]]
 
+![This is an image](https://github.com/DrDad0217/ThePoshDadDocs/blob/main/assets/ActiveEntryUI.png)
 
 
 
