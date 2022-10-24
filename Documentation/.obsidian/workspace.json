@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "9803f2a47400ac25",
+    "type": "split",
+    "children": [
+      {
+        "id": "9359a0569970f942",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e09705305a75091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Troubleshooting Docs/ActiveNet/EntryPoint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f76107a1804e0d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5fc2bca44f53f08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d2e28a439a52bc6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5f7bf7550e6fe74e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Powershell",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4ec7d2eda7f9d86",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d085f3fc1ef85978",
+    "type": "split",
+    "children": [
+      {
+        "id": "5611aa06f726fc34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5358be625a33c51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Troubleshooting Docs/ActiveNet/EntryPoint.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a4aa60b6c6bbcd4f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Troubleshooting Docs/ActiveNet/EntryPoint.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63b7d6c0b3b4881c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3645c53ef877b114",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Troubleshooting Docs/ActiveNet/EntryPoint.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "3d2e28a439a52bc6",
+  "lastOpenFiles": [
+    "Troubleshooting Docs/ActiveNet/ScreenShots/ActiveEntryUI.png",
+    "Troubleshooting Docs/ActiveNet/EntryPoint.md",
+    "Troubleshooting Docs/ActiveNet/ScreenShots/ActiveNet Server Name.png.md",
+    "DaleBarnettCDrive.png",
+    "Software Installs/Powershell 7 Install.md",
+    "Powershell/Test Notes.md",
+    "Untitled.md"
+  ]
+}
