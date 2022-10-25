@@ -11,12 +11,8 @@
             "id": "0e09705305a75091",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Troubleshooting Docs/ActiveNet/EntryPoint.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Troubleshooting Docs/ActiveNet/EntryPoint.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Troubleshooting Docs/ActiveNet/EntryPoint.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Troubleshooting Docs/ActiveNet/EntryPoint.md"
-              }
+              "state": {}
             }
           }
         ],
