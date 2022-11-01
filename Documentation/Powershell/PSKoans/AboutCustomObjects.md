@@ -1,3 +1,5 @@
+#Powershell 
+
 ```powershell
 $Object = [PSCustomObject]@{
 
@@ -15,8 +17,6 @@ BaseProperty
 
 Adding a  member named ==Derived Value== and referencing the `Object.Baseproperty` with the `$this`
 automatic variable. 
-
-
 
 ```powershell
 $Object | Add-Member -MemberType ScriptProperty -Name DerivedProperty -Value {
@@ -70,3 +70,4 @@ $Object.PSObject.Properties.Add(
 
         )
 ```
+
