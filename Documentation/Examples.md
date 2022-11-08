@@ -5,19 +5,15 @@
 >> > Continue Doing things
 >> > > Go home
 
->[!INFO]
->Here is some information!
 
+
+* [x] Done
+* [ ] Help 
+* [x] Test
+*
 -[x] 
 
-- [x] #tags, [links](), **formatting** supported
-- [ ] Still needs to be done
-- [x] Done!
-- [ ] In progress
-
-- [ ] undone 
-- [ ] Not done
-
+- [ ]
 
 
 >[!warning]
@@ -92,6 +88,18 @@ Test-Connection
 
 
 
+
+
+
+>[!info]
+>When filling up the gas tank ensure the hose nozzle goes _Inside_ the gas tank
+
+>[!warning]
+>If the indicator on the fuel gauge is pointing to the letter E the tank *_MUST_* be filled up 🚗 ⛽
+
+
+**test**
+*test*
 
 
 
