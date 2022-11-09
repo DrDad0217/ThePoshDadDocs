@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Tickets/Jeffrey Anaya CDR 900.md",
+                "file": "Personal/Daily Intentions.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/Tickets/Jeffrey Anaya CDR 900.md",
+                "file": "Personal/Daily Intentions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/Tickets/Jeffrey Anaya CDR 900.md",
+                "file": "Personal/Daily Intentions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/Tickets/Jeffrey Anaya CDR 900.md"
+                "file": "Personal/Daily Intentions.md"
               }
             }
           }
@@ -164,15 +164,15 @@
   },
   "active": "1d77fbee11cd8dbd",
   "lastOpenFiles": [
+    "Work/Tickets/Brian Schaffer Not Receiving Notifications.md",
+    "Work/Tickets/Jeffrey Anaya CDR 900.md",
     "Personal/Daily Intentions.md",
     "Powershell/DailyCode/MSI install for VPD.md",
     "Powershell/Testing.md",
     "Examples.md",
-    "Work/Tickets/Brian Schaffer Not Recieving Notifications.md",
     "Work/Tickets/Timmi Outlook issue.md",
     "Powershell/Useful Code/User Input Detection.md",
     "Powershell/Shortcuts & Tricks.md",
-    "Work/Tickets/Brian Shaffer Outlook Issues.md",
-    "Work/Untitled.md"
+    "Work/Tickets/Brian Shaffer Outlook Issues.md"
   ]
 }
