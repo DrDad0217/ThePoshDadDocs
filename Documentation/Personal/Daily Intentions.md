@@ -36,4 +36,9 @@
 - Trying to control the externals
 - Using brute force to solve a problem or task
 
-↪
+#### Questions for negative thoughts
+- Is this really worth worrying about? Is there actual truth to it?
+- Do you need to take a break?
+- 
+
+

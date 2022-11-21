@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Powershell/Testing.md",
+                "file": "Examples.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Daily Intentions.md",
+                "file": "Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Daily Intentions.md",
+                "file": "Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,25 +149,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Daily Intentions.md"
+                "file": "Examples.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
-  "active": "1d77fbee11cd8dbd",
+  "active": "3affe45ec60b82af",
   "lastOpenFiles": [
+    "Powershell/Testing.md",
     "Work/Tickets/Brian Schaffer Not Receiving Notifications.md",
     "Work/Tickets/Jeffrey Anaya CDR 900.md",
     "Personal/Daily Intentions.md",
     "Powershell/DailyCode/MSI install for VPD.md",
-    "Powershell/Testing.md",
     "Examples.md",
     "Work/Tickets/Timmi Outlook issue.md",
     "Powershell/Useful Code/User Input Detection.md",
