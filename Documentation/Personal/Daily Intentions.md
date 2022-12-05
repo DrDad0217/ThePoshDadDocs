@@ -38,7 +38,11 @@
 
 #### Questions for negative thoughts
 - Is this really worth worrying about? Is there actual truth to it?
+- Do you have all of the facts?
+- Are emotions exaggerating whats actually going on?
 - Do you need to take a break?
-- 
+
+
+
 
 

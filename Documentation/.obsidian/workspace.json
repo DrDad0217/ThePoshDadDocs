@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0869c4a91fb20218",
+        "id": "e0010d5b88b35000",
         "type": "tabs",
         "children": [
           {
-            "id": "3affe45ec60b82af",
+            "id": "5f4a70b239556160",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Examples.md",
+                "file": "Work/DailyNotes/2022-12-02.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f8495ea8b31a36a",
+            "id": "865814bebec46b69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,18 +32,19 @@
             }
           },
           {
-            "id": "1d77fbee11cd8dbd",
+            "id": "06e7a5da81afde51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Daily Intentions.md",
+                "file": "Work/Setting up new printer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "d085f3fc1ef85978",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples.md",
+                "file": "Work/Setting up new printer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Examples.md",
+                "file": "Work/Setting up new printer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Examples.md"
+                "file": "Work/Setting up new printer.md"
               }
             }
           }
@@ -160,17 +161,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "3affe45ec60b82af",
+  "active": "06e7a5da81afde51",
   "lastOpenFiles": [
-    "Powershell/Testing.md",
-    "Work/Tickets/Brian Schaffer Not Receiving Notifications.md",
-    "Work/Tickets/Jeffrey Anaya CDR 900.md",
     "Personal/Daily Intentions.md",
-    "Powershell/DailyCode/MSI install for VPD.md",
-    "Examples.md",
-    "Work/Tickets/Timmi Outlook issue.md",
-    "Powershell/Useful Code/User Input Detection.md",
-    "Powershell/Shortcuts & Tricks.md",
-    "Work/Tickets/Brian Shaffer Outlook Issues.md"
+    "Pasted image 20221130082139.png",
+    "Work/DailyNotes/2022-12-05.md",
+    "Powershell/Pester/Tests with Start-COVSoftwareSearch.md",
+    "Powershell/OnlineCode/Installing MSI Files Kevin Marquette.md",
+    "Powershell/DesktopSharedMod/MarkDownHelpFiles/Start-COVSoftwareSearch.md",
+    "Work/VPD/MDC Software.md",
+    "Powershell/Topics/Pester.md",
+    "Work/DailyNotes/2022-12-02.md",
+    "Work/DailyNotes/2022-12-01.md"
   ]
 }
